@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606373457 source:c:\users\weiyang\onedrive\desktop\c\w12_exe1(1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

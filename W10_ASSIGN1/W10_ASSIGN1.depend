@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605073860 source:c:\users\weiyang\onedrive\desktop\c\w10_assign1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604556496 source:c:\users\weiyang\onedrive\desktop\c\w9_assign1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
